@@ -1,0 +1,1 @@
+web: gunicorn Analyse_intelligente_des_comportements_clients.wsgi:application --chdir Analyse_intelligente_des_clients
